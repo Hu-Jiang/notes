@@ -24,7 +24,7 @@ notes about math and computer
 
 - go
   
-  function optional、mutux & channel exchange(mit)、interface & function callback
+  gmp、gc、function optional、mutux & channel exchange(mit)、interface & function callback
 
 - 框架分析
   orm、fsm、tars
