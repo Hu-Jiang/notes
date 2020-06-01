@@ -12,7 +12,7 @@ notes about math and computer
   
 - 分布式系统
 
-  mapreduce原理、gfs、raft
+  mapreduce原理、gfs、raft、微服务
   
 - 算法与优化
 
@@ -21,3 +21,11 @@ notes about math and computer
 - math
 
   组合数学、数论、图论
+
+- go
+  
+  function optional、mutux & channel exchange(mit)、interface & function callback
+
+- 框架分析
+  orm、fsm、tars
+
