@@ -1,3 +1,3 @@
 # notes
-learning notes about everthing
+learning notes about everything
 
